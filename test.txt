@@ -1,0 +1,10 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is F886-93BA
+
+ Directory of D:\Mygifolder
+
+11/23/2019  07:57 PM    <DIR>          .
+11/23/2019  07:57 PM    <DIR>          ..
+11/23/2019  07:57 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,005,872,128 bytes free
